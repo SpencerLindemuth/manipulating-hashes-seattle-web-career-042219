@@ -9,7 +9,6 @@ def second_challenge
   #code your solution here!
   list = []
   groceries.each do |type, kind|
-    list << kind.values
   end
   list
 
