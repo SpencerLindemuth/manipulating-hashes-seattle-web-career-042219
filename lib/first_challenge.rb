@@ -21,7 +21,6 @@ def first_challenge
             x == "strawberry"
           end
         end
-      end
 
         end
     end
