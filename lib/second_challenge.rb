@@ -10,6 +10,7 @@ def second_challenge
   list = []
   groceries.each do |type, kind|
   end
-  list
+  concatenated = list.flatten
+  concatenated
 
 end
