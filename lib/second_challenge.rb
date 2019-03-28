@@ -7,7 +7,7 @@ def second_challenge
   }
 
   #code your solution here!
-
+  puts groceries.values
   list = groceries.collect do |keys, value|
     keys.values
   end
